@@ -28,4 +28,8 @@ html, body {
   text-align: center;
   margin-top: 60px;
 }
+
+a {
+  color: #ff931e;
+}
 </style>

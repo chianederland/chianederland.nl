@@ -12,9 +12,3 @@ export default {
   name: 'Home'
 }
 </script>
-
-<style scoped>
-a {
-  color: #ff931e;
-}
-</style>
